@@ -7,11 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="padroesprojeto" />
-        <module name="padraofactorymethod" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="padrao_factorymethod" target="11" />
+      <module name="padraofactorymethod" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
